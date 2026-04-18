@@ -1,0 +1,9 @@
+Package: com.yourname.wechattapanimation
+Name: 微信点击动画
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: 微信首页UI点击动画效果
+Maintainer: You
+Author: You
+Section: Tweaks
